@@ -1,0 +1,4 @@
+elasticsearch
+pyonmttok
+python-terrier
+sentencepiece
